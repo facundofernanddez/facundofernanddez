@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Facundo!</h1>
+<h1 align="center">Hi 👋, I'm Facundo!</h1>
 <h3 align="center">Full-Stack Developer with focus in JAVA</h3>
 
 - 📫 How to reach me **ff96_@hotmail.com**
