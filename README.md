@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://facundofernanddez.github.io/](https://facundofernanddez.github.io/)
 
-- 📫 How to reach me **ff96_@hotmail.com**
+- 📫 How to reach me **facundofernanddez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
