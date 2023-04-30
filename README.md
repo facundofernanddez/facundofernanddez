@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋🏽, I'm Facundo</h1>
 <h3 align="center">Full Stack Dev | JAVA dev | 🇦🇷</h3>
 
-- 🌱 I’m currently learning **Typescript, Node.js, Nest Framework, MongoDB, AWS**
+- 🌱 I’m currently learning **Typescript, Node.js, Express, Nest Framework, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://facundofernanddez.github.io/](https://facundofernanddez.github.io/)
 
