@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript, Node.js, Express, Nest Framework, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://facundofernanddez.github.io/](https://facundofernanddez.github.io/)
+- 👨‍💻 All of my projects are available at [https://portfolio-facundofernanddez.vercel.app/](https://portfolio-facundofernanddez.vercel.app/)
 
 - 📫 How to reach me **facundofernanddez@gmail.com**
 
