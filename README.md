@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://portfolio-facundofernanddez.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/facundofernanddez">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:facundofernanddez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -31,71 +31,51 @@ I'm passionate about software development, constantly learning and looking for c
 ### Languages
 
 <p align="left">
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/typescript/6366F1" width="42" height="42" alt="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/6366F1" width="42" height="42" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/6366F1" width="42" height="42" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css3/6366F1" width="42" height="42" alt="CSS3"/>
 </p>
 
 ### Frontend
 
 <p align="left">
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-  </a>
-  <a href="https://redux.js.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux Toolkit"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/react/6366F1" width="42" height="42" alt="React"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/6366F1" width="42" height="42" alt="Next.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redux/6366F1" width="42" height="42" alt="Redux Toolkit"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/6366F1" width="42" height="42" alt="Tailwind CSS"/>
 </p>
 
 ### Backend
 
 <p align="left">
-  <a href="https://nodejs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/nodedotjs/6366F1" width="42" height="42" alt="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/6366F1" width="42" height="42" alt="Express.js"/>
 </p>
 
 ### Databases
 
 <p align="left">
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/mysql/6366F1" width="42" height="42" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/6366F1" width="42" height="42" alt="MongoDB"/>
 </p>
 
 ### Tools
 
 <p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  </a>
-  <a href="https://www.postman.com/">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/git/6366F1" width="42" height="42" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/6366F1" width="42" height="42" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/6366F1" width="42" height="42" alt="Postman"/>
 </p>
 
 ---
